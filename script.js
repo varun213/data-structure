@@ -12,3 +12,5 @@ news.onload = function() {
     display(0);
     }
 }
+// this is javascript file 
+// time is 5:54
